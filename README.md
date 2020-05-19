@@ -21,7 +21,7 @@ Je mettrai peut-etre la version Android plus tard.
 
 
 **Niveau 1**
-[![Watch the video](https://raw.githubusercontent.com/LudovicLemaire/unity_plateform/master/git_images/firstLevel.png)](https://vimeo.com/420284488)
+[![Watch the video](https://raw.githubusercontent.com/LudovicLemaire/unity_platform/master/git_images/firstLevel.png)](https://vimeo.com/420284488)
 
 **Niveau 2**
-[![Watch the video](https://raw.githubusercontent.com/LudovicLemaire/unity_plateform/master/git_images/secondLevel.png)](https://vimeo.com/420285628)
+[![Watch the video](https://raw.githubusercontent.com/LudovicLemaire/unity_platform/master/git_images/secondLevel.png)](https://vimeo.com/420285628)
